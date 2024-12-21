@@ -23,18 +23,6 @@ const Navbar = () => {
                    aria-label="GitHub">
                     <FaGithub/>
                 </a>
-                <a href="https://www.instagram.com/jdhixx/"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   aria-label="Instagram">
-                    <FaInstagram/>
-                </a>
-                <a href="https:/x.com/shoxcode"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   aria-label="X">
-                    <FaSquareXTwitter/>
-                </a>
             </div>
         </nav>
     )
