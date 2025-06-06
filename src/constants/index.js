@@ -36,7 +36,7 @@ export const PROJECTS = [
     title: "Legiscape.us Web Application",
     image: project1,
     description:
-      "Largescale is a JavaScript built political app that allows for US citizens to get free access to information on the politician's that represent them, not only on a federal and state level, but also at a local level.",
+      "Legiscape is a JavaScript built political app that allows for US citizens to get free access to information on the politician's that represent them, not only on a federal and state level, but also at a local level.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
