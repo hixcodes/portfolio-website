@@ -17,17 +17,11 @@ const Navbar = () => {
                    aria-label="LinkedIn">
                     <FaLinkedin/>
                 </a>
-                <a href="https://github.com/Shoxed/"
+                <a href="https://github.com/hixcodes/"
                    target="_blank"
                    rel="noopener noreferrer"
                    aria-label="GitHub">
                     <FaGithub/>
-                </a>
-                <a href="https://www.instagram.com/jdhixx/"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   aria-label="Instagram">
-                    <FaInstagram/>
                 </a>
             </div>
         </nav>
